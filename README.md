@@ -1,2 +1,3 @@
 # Codes
-All my codes learning in C and C++
+All my code learning in C and C++
+Author : Vansh Raj
